@@ -1,0 +1,52 @@
+h1
+{
+    text-align:center;
+    background-color:rgba(237, 23, 59, 0.214);
+    color:rgb(102, 11, 182);
+    font-size:60px;
+}
+p2{
+    font-size:40px;
+    color:crimson;
+    font-weight:bold;
+}
+h3{
+    color:rgb(79, 22, 211);
+    font-size:40px;
+    text-align:center;
+}
+h11
+{
+    font-size:40px;
+    text-align:center;
+    color:rgb(237, 32, 46);
+}
+h12
+{
+    font-size:40px;
+    text-align:center;
+    color:rgb(237, 32, 46);
+}
+p{
+    font-size:20px;
+    text-align: center;
+}
+p1
+{
+    font-size:20px;
+}
+footer{
+    font-size:20px;
+}
+#but{
+    height:40px;
+    width:250px;
+    background-color: antiquewhite;
+    font-size:20px;
+}
+h5{
+    font-size:25px;
+}
+.a{
+    margin-top:25px;
+}
